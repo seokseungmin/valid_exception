@@ -15,7 +15,7 @@
 - ## 🧰 Tech Stack
 - **Frameworks & Libraries**: Spring Boot, Spring Data JPA, Spring Web, Spring Configuration Processor, QueryDSL, Valid
 - **Databases**: MariaDB
-- **Utilities**: Lombok, Logback, Swagger, 
+- **Utilities**: Lombok, Logback, Swagger
 
 ## 📖 API Documentation 
 ### [Swagger로 API 테스트](http://localhost:8080/swagger-ui/index.html)
