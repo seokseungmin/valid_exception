@@ -6,7 +6,8 @@ import com.springboot.valid_exception.group.ValidationGroup2;
 import jakarta.validation.constraints.*;
 import lombok.*;
 
-@Data@NoArgsConstructor
+@Data
+@NoArgsConstructor
 @AllArgsConstructor
 @ToString
 @Builder

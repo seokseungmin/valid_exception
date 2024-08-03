@@ -1,6 +1,5 @@
 package com.springboot.valid_exception.data.controller;
 
-import com.springboot.valid_exception.data.dto.ValidRequestDto;
 import com.springboot.valid_exception.data.dto.ValidatedRequestDto;
 import com.springboot.valid_exception.group.ValidationGroup1;
 import com.springboot.valid_exception.group.ValidationGroup2;
